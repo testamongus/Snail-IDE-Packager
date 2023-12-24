@@ -19,7 +19,7 @@
       "matches": [
         "https://scratch.mit.edu/projects/*",
         "https://penguinmod.com/#*",
-        "https://projects.penguinmod.com/api/projects/getPublished?type=file&id=*"
+        "https://snailshare-backend.glitch.me/api/projects/getPublished?type=file&id=*"
       ]
     }
   ],
@@ -29,7 +29,7 @@
       "matches": [
         "https://scratch.mit.edu/projects/*",
         "https://penguinmod.com/#*",
-        "https://projects.penguinmod.com/api/projects/getPublished?type=file&id=*"
+        "https://snailshare-backend.glitch.me/api/projects/getPublished?type=file&id=*"
       ]
     },
     {
@@ -37,7 +37,7 @@
       "matches": [
         "https://scratch.mit.edu/projects/*",
         "https://penguinmod.com/#*",
-        "https://projects.penguinmod.com/api/projects/getPublished?type=file&id=*"
+        "https://snailshare-backend.glitch.me/api/projects/getPublished?type=file&id=*"
       ]
     }
   ],

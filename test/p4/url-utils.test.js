@@ -1,7 +1,7 @@
 import { extractProjectId, getTitleFromURL, isValidURL } from '../../src/p4/url-utils';
 
 test('extractProjectId', () => {
-  expect(extractProjectId('https://studio.penguinmod.com/#104')).toBe('104');
+  expect(extractProjectId('https://snail-ide.js.org/#104')).toBe('104');
 });
 
 test('getTitleFromURL', () => {
