@@ -142,7 +142,7 @@
       const {storage, vm} = scaffolding;
       storage.addWebStore(
         [storage.AssetType.Project],
-        (asset) => `https://snailshare-backend.glitch.me/api/projects/getPublished?type=file&id=${asset.assetId}`
+        (asset) => `https://snailshare.dreamhosters.com/api/projects/getPublished?type=file&id=${asset.assetId}`
       );
       storage.addWebStore(
         [storage.AssetType.ImageVector, storage.AssetType.ImageBitmap, storage.AssetType.Sound],

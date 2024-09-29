@@ -41,7 +41,7 @@ const fromURL = async (url, progressCallback) => {
 
 const fromID = (id, token, progressCallback) => {
   const tokenPart = token ? `?token=${token}` : '';
-  const url = `https://snailshare-backend.glitch.me/api/projects/getPublished?type=file&id=${id}`;
+  const url = `https://snailshare.dreamhosters.com/api/projects/getPublished?type=file&id=${id}`;
   return fromURL(url, progressCallback);
 };
 
