@@ -30,9 +30,9 @@ If this is set to an empty string, the link is removed.
 */
 
 module.exports = {
-  APP_NAME: 'Snail IDE Packager',
-  WEBSITE: 'https://snail-ide.js.org/Snail-IDE-Packager/',
-  COPYRIGHT_NOTICE: `Copyright (C) 2023 - 2024 Nolan Simpson
+  APP_NAME: 'Banana-mod Packager',
+  WEBSITE: 'https://banana-mod.github.io/banana-packeger',
+  COPYRIGHT_NOTICE: `Copyright (C) 2023 - 2024 Robert AL
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -46,14 +46,14 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.`,
   ACCENT_COLOR: '#00c3ff',
-  SOURCE_CODE: 'https://github.com/Snail-IDE/Snail-IDE-Packager',
+  SOURCE_CODE: 'https://github.com/banana-mod',
   FEEDBACK_PRIMARY: {
     name: 'Lead Developer Scratch Page',
-    link: 'https://scratch.mit.edu/users/Mr_rudy/'
+    link: 'https://scratch.mit.edu/users/numelemeu123/'
   },
   FEEDBACK_SECONDARY: {
     name: 'GitHub',
-    link: 'https://github.com/Snail-IDE/Snail-IDE-Packager/issues'
+    link: 'https://github.com/banana-mod'
   },
   DONATE: 'https://penguinmod.com/donate',
   PRIVACY_POLICY: 'https://turbowarp.org/privacy.html',
