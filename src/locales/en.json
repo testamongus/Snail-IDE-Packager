@@ -1,7 +1,7 @@
 {
   "p4": {
     "description1": {
-      "string": "Converts Snail IDE projects into HTML files, zip archives, or executable programs for Windows, macOS, and Linux."
+      "string": "Converts Banana-mod projects into HTML files, zip archives, or executable programs for Windows, macOS, and Linux."
     },
     "description2": {
       "string": "If you just want an easy way to embed a project into your website, you may be interested in {embedding}."
@@ -119,10 +119,10 @@
       "string": "Select Project"
     },
     "selectHelp": {
-      "string": "Select the project you want to package by copying and pasting the Snail IDE project link or using one of the other modes. If you use a project you didn't make, make sure to credit the creator."
+      "string": "Select the project you want to package by copying and pasting the Banana-mod project link or using one of the other modes. If you use a project you didn't make, make sure to credit the creator."
     },
     "id": {
-      "string": "Snail IDE Project ID or URL",
+      "string": "Banana-mod Project ID or URL",
       "context": "Radio option to select a project from the Snail IDE website"
     },
     "file": {
